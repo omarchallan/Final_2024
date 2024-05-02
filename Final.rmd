@@ -157,6 +157,8 @@ lgbtqFisher <- fisher.test(tableLGBTQ)
 lgbtqFisher
 ```
 
+The Chi Squared test shows that the P-value for the tested data is 0.00000001029 which smaller than 0.05. This number indicates that there is a difference in the data. The Chi-Squared statistic is 29.1588  which is way larger than our degrees of freedom of 1 in this data. 
+
 ## Druggies
 
 
