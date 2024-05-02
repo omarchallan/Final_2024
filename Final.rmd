@@ -81,6 +81,8 @@ maleHigh=(maleFisher$conf.int[2]/(maleFisher$conf.int[2]+1))*100
 cat("\n","Condifence interval for Males: ",maleLow," to ",maleHigh)
 ```
 
+We see here that the confidence interval is more than 50% with a normal vaccine approach of more than 60%. The confidence interval shows us that this vaccine is good for this group.
+
 ## Females
 
 
