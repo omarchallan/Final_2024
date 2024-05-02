@@ -129,6 +129,12 @@ We see here that the confidence interval is more than 50% with a normal vaccine 
 
 ## LGBTQ
 
+### Graphical results
+
+```{r}
+barchartGC(~infected + treatment,data=lgbtq)
+barchartGC(~infected + treatment,data=lgbtq, type="percent")
+```
 
 
 ## Druggies
