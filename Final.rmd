@@ -146,6 +146,8 @@ rowPerc(tableLGBTQ)
 colPerc(tableLGBTQ)
 ```
 
+The numerical results is telling us that the placebo group who got Covid are about 15% of the time where the vaccinated group got Covid 85% of the time. We can see that the vaccine is not effective in this scenario.
+
 
 ## Druggies
 
