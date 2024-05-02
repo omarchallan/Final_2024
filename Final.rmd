@@ -85,6 +85,12 @@ We see here that the confidence interval is more than 50% with a normal vaccine 
 
 ## Females
 
+### Graphical results
+
+```{r}
+barchartGC(~infected + treatment,data=female)
+barchartGC(~infected + treatment,data=female, type="percent")
+```
 
 ## LGBTQ
 
