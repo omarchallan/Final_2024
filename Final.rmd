@@ -192,4 +192,12 @@ colPerc(tableDrug)
 
 The numerical results is telling us that the placebo group who got Covid are about 10% of the time where the vaccinated group got Covid 90% of the time. We can see that the vaccine is not effective in this scenario. We can also say that this group is at a higher risks of getting covid even more than the LGBTQ group.
 
+### Inferential Results
+
+```{r}
+chisq.test(tableDrug)
+chisqtestGC(tableDrug)
+drugFisher <- fisher.test(tableDrug)
+drugFisher
+```
 # Overall Results and Conclusions
