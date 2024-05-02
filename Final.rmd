@@ -69,6 +69,8 @@ maleFisher <- fisher.test(tableMale)
 maleFisher
 ```
 
+The Chi Squared test shows that the P-value for the tested data is 0.00000000000004631 which smaller than the general use point of 0.05. This number indicates that there is a difference in the data. The Chi-Squared statistic is 55.18 which is way larger than our degrees of freedom of 1 in this data. 
+
 ## Females
 
 
