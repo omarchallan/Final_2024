@@ -58,6 +58,8 @@ rowPerc(tableMale)
 colPerc(tableMale)
 ```
 
+The numerical results is telling us that the placebo group contracted Covid are about 70% of the time where the vaccinated group contracted Covid 30% of the time. We can see that the vaccine is generally effective in this scenario.
+
 ## Females
 
 
