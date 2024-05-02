@@ -173,5 +173,11 @@ We see here that the confidence interval is much lower that 50% with a normal va
 
 ## Druggies
 
+### Graphical results
+
+```{r}
+barchartGC(~infected + treatment,data=drugUser)
+barchartGC(~infected + treatment,data=drugUser, type="percent")
+```
 
 # Overall Results and Conclusions
